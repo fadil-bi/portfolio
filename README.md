@@ -52,7 +52,7 @@
 [Certified DATA ANALYST](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_e7v4fXnqogi7NFpgW_1746462587905_completion_certificate.pdf)
 
 ### Molecular Lab Technician Expert - SAS LAB, KNUST
-![Molecular Lab Technician Expert](/assets/img/eeg_band_discovery.jpeg)
+![Molecular Lab Technician Expert](assets/Molecular Techniques Workshop Certificate.jpg)
 
 ## Education
 - Bachelors Degree, Computational Biology & Biological Sciences | KNUST
