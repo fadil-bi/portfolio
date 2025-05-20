@@ -28,6 +28,7 @@
 - Conducted exploratory data analysis (EDA) to uncover patterns and distributions in adverse effects.
 
 ### Time Series Analysis of Air Quality in Lagos
+- Performed SQL Engineering to extact data from Database
 - Developed a predictive model to forecast air pollution trends in Lagos
 
 ### Hypothesis Testing in Healthcare: Drug Safety
