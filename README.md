@@ -31,11 +31,6 @@
 - Performed SQL Engineering to extact data from Database
 - Developed a predictive model to forecast air pollution trends in Lagos
 
-### Hypothesis Testing in Healthcare: Drug Safety
-- Performed statistical tests to determine whether adverse reactions associated with pharmaceutical drugs were significantly higher than expected.
-- Assessed the frequency and significance of adverse reactions associated with the trial drug and placebo
-- Conducted exploratory data analysis (EDA) to uncover patterns and distributions in adverse effects.
-
 ### Segmentation of US Consumer Data
 - Employed KMeans Clustering to uncover insights about consumer groups of households in the US
 
