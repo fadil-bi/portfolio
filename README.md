@@ -18,7 +18,7 @@
 
 
 ## Projects
-### Enhanced Flight Departure Delay Prediction Through Multimodal Machine Learning Integration 
+[### Enhanced Flight Departure Delay Prediction Through Multimodal Machine Learning Integration](https://www.example.com)
 - Developed a hybrid predictive model to forecast flight departure delays.
 - Web scraped to gather supplementary data that would enhance the model's predictive accuracy. 
 
