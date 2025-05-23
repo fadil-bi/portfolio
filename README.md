@@ -18,11 +18,11 @@
 
 
 ## Projects
-### [Enhanced Flight Departure Delay Prediction Through Multimodal Machine Learning Integration](https://www.example.com)
+### Enhanced Flight Departure Delay Prediction Through Multimodal Machine Learning Integration
 - Developed a hybrid predictive model to forecast flight departure delays.
 - Web scraped to gather supplementary data that would enhance the model's predictive accuracy. 
 
-### Hypothesis Testing in Healthcare: Drug Safety
+### [Hypothesis Testing in Healthcare: Drug Safety](https://github.com/fadil-bi/Hypothesis-Testing-in-Healthcare.git){:target="_blank" rel="noopener"}
 - Performed statistical tests to determine whether adverse reactions associated with pharmaceutical drugs were significantly higher than expected.
 - Assessed the frequency and significance of adverse reactions associated with the trial drug and placebo
 - Conducted exploratory data analysis (EDA) to uncover patterns and distributions in adverse effects.
