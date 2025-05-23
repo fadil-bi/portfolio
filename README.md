@@ -27,8 +27,6 @@
 - Assessed the frequency and significance of adverse reactions associated with the trial drug and placebo
 - Conducted exploratory data analysis (EDA) to uncover patterns and distributions in adverse effects.
 
-[Link Text](http://example.com){:target="_blank" rel="noopener"}
-
 ### Time Series Analysis of Air Quality in Lagos
 - Performed SQL Engineering to extact data from Database
 - Developed a predictive model to forecast air pollution trends in Lagos
